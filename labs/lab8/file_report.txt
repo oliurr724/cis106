@@ -1,0 +1,13 @@
+All files in my home directory
+.ansi_codes.sh, .bash_aliases, .bash_history, .bash_logout, .bashrc, .cache,
+challenge-Lab6, cis106, .config, Desktop, .dmrc, Documents, .dotnet, Downloads,
+final-exam-submission, final-exam-submission.zip, .gitconfig, .gnupg, Lab-5,
+lab5-audio, lab5ChallengeQuestion, lab5-docs, lab5-imgs, lab5-video, lab6,
+lab6-q5, .lesshst, .local, .mozilla, Music, Pictures, pizza-mania, .pki,
+.profile, Public, scripts, snap, .ssh, .sudo_as_admin_successful, Templates,
+.textFiles.sh, tfi.sh, .thunderbird, Videos, .vscode, walpaper.jpg, .Xauthority,
+.xsession-errors, .xsession-errors.old
+Total number of files in my home directory
+17
+Total number of directories in my home directory
+32
